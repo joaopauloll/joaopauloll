@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, me chamo João Paulo Lemos. Sou um Desenvolvedor Front-End apaixonado pela programação. Sempre disposto a adquirir e compartilhar novos conhecimentos e experiências.
+
+### Linkedin: https://www.linkedin.com/in/jo%C3%A3o-paulo-leite-064925197
 
 <!--
 **joaopauloll/joaopauloll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
